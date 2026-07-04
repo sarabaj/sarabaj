@@ -2,7 +2,7 @@
 
 Software Engineering Graduate interested in software development, AI, data analytics, UI/UX design, cloud technologies, and process improvement.
 
-I enjoy building practical projects that solve real problems and improve user experience. My background includes academic software projects, Arabic NLP research, machine learning applications, UI/UX design work, and operations experience.
+I enjoy building practical projects that solve real problems and improve user experience. My background includes software engineering projects, machine learning applications, AI-assisted tools, UI/UX design work, privacy and security research, and operations experience.
 
 ## 🔧 Skills
 
