@@ -1,8 +1,8 @@
-# Hi, I'm Sara Bajrsh 👋
+# Hi, I'm Sara Bajarsh 👋
 
 Software Engineering Graduate interested in software development, AI, data analytics, UI/UX design, cloud technologies, and process improvement.
 
-I enjoy building practical projects that solve real problems and improve user experience. My background includes academic software projects, Arabic NLP research, machine learning applications, UI/UX design work, and operations experience at Amazon.
+I enjoy building practical projects that solve real problems and improve user experience. My background includes academic software projects, Arabic NLP research, machine learning applications, UI/UX design work, and operations experience.
 
 ## 🔧 Skills
 
@@ -23,10 +23,9 @@ More projects will be added soon.
 
 ## 💼 Experience
 
-Amazon Operations experience with exposure to KPIs, reporting, workflow improvement, productivity tracking, and team coordination.
+Operations experience at Amazon with exposure to KPIs, reporting, workflow improvement, productivity tracking, and team coordination.
 
 ## 📫 Contact
 
-- LinkedIn: add your LinkedIn link here
-- Portfolio: coming soon
-- Email: add your professional email here
+- LinkedIn: [Sara Bajrsh](https://www.linkedin.com/in/sara-bajarsh-579602286)
+- Portfolio: Coming soon
