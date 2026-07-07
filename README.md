@@ -2,7 +2,7 @@
 
 **Software Engineering Graduate · AI & Data · Business Analysis · Process Improvement**
 
-I like building things that make sense — not just technically, but for the people who use them.
+I like building things that make sense, not just technically, but for the people who use them.
 
 My work sits somewhere between **software engineering, data, UI/UX, operations, and process improvement**. I enjoy taking unclear workflows, messy data, or complex user needs and turning them into practical tools, clean interfaces, and systems that are easier to understand, use, and improve.
 
